@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    padding: 20px 0 20px 0;
+}
+
+footer {
+    background-color: #343A40;
+    color: #fff;
+}
+
+nav 
+img {
+    width: 150px;
+}
+
+.quem-somos {
+    background: #ccc;
+    color:#343A40;
+}
+
+.parceiros {
+    background: #343A40;
+    color: #ccc;
+}
+
+.servicos {
+    background: #ccc;
+    color:#343A40;
+}
+
+.margin {
+    padding: 20px 0 20px 0;
+}
+
+#parceiros img {
+    width: 100%;
+}
